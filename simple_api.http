@@ -1,0 +1,7 @@
+### Send POST request with json body
+POST http://localhost:8000
+Content-Type: application/json
+
+{
+  "number": 30
+}
